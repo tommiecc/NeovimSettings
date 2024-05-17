@@ -3,7 +3,9 @@ My person Neovim settings.
 
 ## Plugins I use
 *Theme:*
+
 `folke/tokyonight.nvim`
+
 *General Plugins:*
 ```
 tpope/vim-surround
@@ -22,7 +24,9 @@ windwp/nvim-autopairs
 startup-nvim/startup.nvim
 folke/which-key.nvim
 ```
+
 *Language specific plugins:*
+
 `scalameta/nvim-metals`
 
 ## Install (if you want for some reason :p)
